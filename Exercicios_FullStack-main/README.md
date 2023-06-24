@@ -1,4 +1,4 @@
-# Repositório para Atividades da Matéria de Desenvolvimento Full Stack - UFG
+# Repositório para Atividades da Matéria de Desenvolvimento Full Stack
 
 ## Disponíveis Atividades:
 
